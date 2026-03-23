@@ -16,4 +16,7 @@ The program handles both uppercase and lowercase letters while preserving spaces
 3. Enter your message
 4. Provide a shift value (1–25)
 5. Get the result instantly
-
+# Example
+Input: HELLO
+Shift: 3
+Output: KHOOR
