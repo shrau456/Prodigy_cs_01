@@ -1,4 +1,5 @@
 # Prodigy_cs_01
+# Task 1 : Implement Caesar Cipher
 This project is a simple Python-based application that implements the Caesar Cipher algorithm to securely encrypt and decrypt text messages. It allows users to input a message and a shift value to perform encryption or decryption in an interactive, menu-driven interface.
 The program handles both uppercase and lowercase letters while preserving spaces and special characters. It also includes input validation to ensure smooth execution and prevent errors.
 # Features:
@@ -16,3 +17,5 @@ The program handles both uppercase and lowercase letters while preserving spaces
 3. Enter your message
 4. Provide a shift value (1–25)
 5. Get the result instantly
+# Author
+- Created by : Suryawanshi Shravani Dnyanoba
